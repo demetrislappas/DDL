@@ -1,1 +1,3 @@
-# Dynamic_Distinction_Learning-_Adaptive_Pseudo_Anomalies_for_Video_Anomaly_Detection
+# Dynamic Distinction Learning: Adaptive Pseudo Anomalies for Video Anomaly Detection
+
+Code coming soon.
