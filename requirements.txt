@@ -1,0 +1,7 @@
+torch==2.1.0
+torchvision==0.16.0
+einops==0.7.0
+opencv-python==4.8.1.78
+numpy==1.24.3
+natsort==7.1.1
+tqdm==4.66.1
